@@ -36,3 +36,4 @@
 #Zend Studio
 .settings
 .project
+.buildpath
